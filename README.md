@@ -31,4 +31,6 @@ Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.co
 
 💌 You can also drop me an email at [dustinkosborne@gmail.com](mailto:dustinkosborne@gmail.com) for any inquiries or opportunities.
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=duhsten&show_icons=true&theme=radical)](https://github.com/duhsten/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=duhsten&show_icons=true&theme=radical)](https://github.com/duhsten/github-readme-stats)
+
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Duhsten&theme=radical)
