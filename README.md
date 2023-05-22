@@ -33,4 +33,4 @@ Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.co
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=duhsten&show_icons=true&theme=radical)](https://github.com/duhsten/github-readme-stats)
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Duhsten&theme=radical)
+<figure><embed src="https://wakatime.com/share/@5b28b2d4-445c-49e9-8012-97609df67985/5d80aa38-cacf-41b1-940c-bfcb9e487ba0.svg"></embed></figure>
