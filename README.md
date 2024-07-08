@@ -16,7 +16,7 @@ As a developer with a detail-oriented and analytical mindset, I constantly striv
 
 ## 🛠️ Skills & Technologies
 
-* Languages: JavaScript, Python, Java, C#
+* Languages: JavaScript & Typescript, Python, Java, C#, C/C++
 * Web Development: HTML, CSS, React, Angular, Vue, Node.js
 * Backend Development: Node.js (Express), SignalR, AWS Lambda, Azure Functions
 * Databases: MySQL
