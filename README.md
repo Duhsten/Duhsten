@@ -1,7 +1,7 @@
 # Dustin Osborne  
 
 ## Skills  
-- **Languages:** JavaScript/TypeScript, Python, Java, C#, C/C++  
+- **Languages:** JavaScript/TypeScript, Python, Java, C#, C/C++, Rust
 - **Web:** HTML, CSS, React, Angular, Vue, Node.js  
 - **Backend:** Express, SignalR, AWS Lambda, Azure Functions  
 - **Databases:** MySQL  
