@@ -1,5 +1,3 @@
-# Dustin Osborne  
-
 ## Skills  
 - **Languages:** JavaScript/TypeScript, Python, Java, C#, C/C++, Rust
 - **Web:** HTML, CSS, React, Angular, Vue, Node.js  
