@@ -8,4 +8,3 @@
 
 ## Contact  
 [LinkedIn](https://www.linkedin.com/in/dustin-k-osborne)  
-[dustinkosborne@gmail.com](mailto:dustinkosborne@gmail.com)  
